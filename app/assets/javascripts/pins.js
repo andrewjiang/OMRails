@@ -5,5 +5,5 @@ var container = document.querySelector('#pins');
 var msnry = new Masonry( container, {
   // options...
   itemSelector: '.box',
-  columnWidth: 200
+  columnWidth: 300
 });
